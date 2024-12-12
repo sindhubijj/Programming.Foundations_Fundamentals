@@ -1,6 +1,6 @@
 # Programming Foundations: Fundamentals
-** Learning Path - Becoming a Programmer: Foundations **
+*Learning Path - Becoming a Programmer: Foundations* 
 
-# Coding Exercises: 
+**Coding Exercises:** 
 
-# Exercise Files: 
+**Exercise Files:**
