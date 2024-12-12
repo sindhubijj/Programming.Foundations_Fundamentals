@@ -12,7 +12,7 @@
     - *File Name:* introductions.py
 - ***Functions*** **Program:** Python program introducing functions and how to create them.   
     - *File Name:* functions.py
-- ***Caw Wash*** **Program:** Created two functions to determine which car wash to have: Basic or Premium. 
+- ***Car Wash*** **Program:** Created two functions to determine which car wash to have: Basic or Premium. 
     - *File Name:* carWash.py
 - ***Bank Withdrawals*** **Program:** Python Program incorporting functions, if-else statements, and variables. 
     - *File Name:* bankBalance.py
