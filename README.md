@@ -22,5 +22,3 @@
     - *File Name:* challenge_2.py
 - ***Challenge #3*** **Program:** Focused on defining and creating a function to find the "favorite city". 
     - *File Name:* challenge_3.py
-
-**Exercise Files:**
