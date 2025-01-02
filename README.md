@@ -4,7 +4,7 @@
 **Coding Exercises:** 
 - ***Hello World!*** **Program:** First program written using a print statement to say "Hello World!".
     - *File Name:* helloWorld.py
-- ***Variables*** **Program:** Program focused on introducing variables, but included an *if-else* statement and *input* functions.
+- ***Variables*** **Program:** Program focused on introducing variables, while including an *if-else* statement and *input* functions.
     - *File Name:* variables.py
 - ***Data Types*** **Program:** Python program introducing data types and how to find them using the correct Python Syntax.  
     - *File Name:* dataTypes.py
